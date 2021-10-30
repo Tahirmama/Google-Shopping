@@ -1,0 +1,66 @@
+{
+  
+    
+        "Xiaomi Redmi ": {
+            "img": "https://lh3.googleusercontent.com/spp/AARfHkw7rabpYorUeGUtZtq7AF3mLMobWpMLwO9fFPyPIWewLEGyR3fsKTY0nk86Hf0aX1WOoVnh9CTHiELKrzy2zT28l6hY-s6Ffn3-0tN_e10iGvm5b3BT72-yQ_HQJpW-YRhOmXpPxd3bVdGvA4y39xIdA-Z2xSa-B7P4MmWNXW2D7NBkHRtoarQWQr4Bs7lL7royhUm35g=s256-rw-pd-pc0x00ffffff",
+            "Prices": "€249.00",
+            "name": "Xiaomi Redmi Note 10  - 128 GB grijs"
+        },
+        " Huawei MediaPad": {
+            "img": "https://mulaby.com/wp-content/uploads/2020/05/imageedit_82_6720801403.png",
+            "Prices": "€149.00  ",
+            "name": "Huawei MediaPad T5 - 10.1 inch - Wifi - 32GB - Zwart "
+        },
+        "Xiaomi Redmi": {
+            "img": "https://lh3.googleusercontent.com/spp/AARfHkw6AsQ1vvz7Db2uvhLEGg-Imff9VhrXKjacQ5CuYz3DxREirj3mKSknOi3mFBIUBboXQlpDMfcmfdBqLYHfcUPwT31TPneAkuTPdSafQkXU__77Km6pl6kcytYwv0sPt2ntMkV1MNZhN-MbfhVVZCW2J5DkNWL2VZyq_bjj7M8_fkP-rUCFgCIDeWkY2PdFjCPc04RFcg=s256-rw-pd-pc0x00ffffff",
+            "Prices": "€280.00",
+            "name": "Xiaomi Redmi Note 10 Pro - 128 GB grijs"
+        },
+        "Samsung Galaxy Note": {
+            "img": "https://www.stc.com.sa/wps/wcm/connect/english/individual/resources/f/e/fe09cbc0-b46a-47aa-ad8e-11e05af05c5f/Image_Product_Key_Visual_Galaxy_Note20_Ultra_Product_Images_Mystic_Bronze_200605_sm-n985%2C986_galaxynote20ultra_front_pen_mysticbronze_200605_RGB.png",
+            "Prices": "€936.00  ",
+            "name": "Samsung Galaxy Note 20 Ultra 256GB Brons 5G"
+        },
+        "DJI MINI": {
+            "img": "https://lh3.googleusercontent.com/spp/AARfHkz8HVElz3mVYKEUBKntIJ_3cWPH17YwGwB7ojnVy7a7eYcoFSEZe1kJ2PTUf7dxc9vCbjhP2svqG330v_v1afcI026IIXmX6K3p1823guz-97089nIf_Ngo74d8gGmMNMRyfCTt9eLWhpkbmQCOBs4c1fQaQ9cAXjM6d0x9EB_Io5QZikRUfweQdmYWXTs8VUsEIR3VOg=s256-rw-pd-pc0x00ffffff",
+            "Prices": "€599.00            ",
+            "name": "DJI MINI 2 Fly More Combo Accessories"
+        },
+        
+        "Apple iPhone":{
+            "img":"https://www.proximus.be/dam/jcr:931bc35e-159e-447f-9cba-65e9b4834100/cdn/sites/iportal/images/products/device/p/px-apple-iphone-13-128gb-midnight/detail/px-apple-iphone-13-128gb-midnight-XS-1~2021-09-16-13-29-42~cache.png",
+            "Prices":"€909.00",
+            "name":"Apple iPhone 13 - 128 GB - Zwart"
+        },
+        "OnePlus":{
+            "img":"https://fscl01.fonpit.de/devices/24/1924-w320h320.png",
+            "Prices":"€392.00",
+            "name":"OnePlus Nord 2 5G 128GB Grey"
+        },
+        "Apple iPhone 13":{
+            "img":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=940&hei=1112&fmt=png-alpha&.v=1631652956000",
+            "Prices":"€1,089.83",
+            "name":"Apple iPhone 13 Pro 128GB Graphite Digital Storage"
+        },
+        "iPhone":{
+            "img":"https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+            "Prices":"€1,259.00",
+            "name":"Apple iPhone 13 Pro Max 128GB Blue"
+        },
+        "Xiaomi Redmi 9C":{
+            "img":"https://cdn.shopify.com/s/files/1/0231/3627/2464/products/Redmi-9C-Black_f54724a3-ba32-48ec-8665-1cb17f9f5f2d_grande.png?v=1628967202",
+            "Prices":"€159.95",
+            "name":"Xiaomi Redmi 9C - 64 GB grijs"
+        },
+        "Xiaomi Redmi Note 9":{
+            "img":"https://i01.appmifile.com/webfile/globalimg/zhouyuxin/J15S-Blue-800.png",
+            "Prices":"€182.00",
+            "name":"Xiaomi Redmi Note 9 64GB Grey"
+        },
+        "Samsung Galaxy": {
+            "img": "https://images.samsung.com/is/image/samsung/p6pim/pk/galaxy-a52/gallery/pk-galaxy-a72-a725-sm-a725fzkgmeb-397300242?$720_576_PNG$",
+            "Prices": "€419.00",
+            "name": "Samsung Galaxy A72 - 128 GB - wit"
+        }
+
+    }

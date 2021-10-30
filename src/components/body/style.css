@@ -1,0 +1,80 @@
+.Head{
+    margin-left: 2%;
+    font: 400 1.875rem/2.125rem 'Google Sans','GoogleSans-Local','Roboto',sans-serif;
+    letter-spacing: 0.0125rem;
+    color: #48494d;
+    
+    
+}
+.Head-container{
+    border-bottom: 1px solid #dadce0;
+}
+.viewmore{
+text-decoration: none;
+width: 100%;
+height: 40px;
+font-family: "Google Sans",Roboto,Arial,sans-serif;
+font-size: .875rem;
+letter-spacing: .0107142857em;
+font-weight: 500;
+color: var(--gm-colortextbutton-ink-color,#1a73e8);
+background-color: white;
+border-color: white;
+border: none;
+cursor: pointer;
+margin: 10px;
+}
+.viewmore:hover{
+    background-color:rgb(204, 227, 235);
+    color: #6200ee;
+    border-radius: 30px;
+    border-color: white;
+border: none;
+    
+}
+
+/* loop data {show data}*/
+
+.display-container{
+     grid-template-columns: repeat(6, minmax(calc(144px + 1rem), 1fr));
+    display: grid;
+    grid-auto-flow: dense;
+    margin-bottom: -1.5rem;
+    margin-right: -1rem;
+    cursor: pointer; 
+    margin-left: 4rem;
+    box-sizing: border-box;
+   
+ } 
+.ePics{
+    background-color: rgba(32,33,36,0.039);
+    border-radius: 15px;
+    padding: .5rem;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;     
+}
+.ePrice{
+    color: #202124;
+    font: 700 1rem/1rem 'Google Sans','GoogleSans-Local','Roboto',sans-serif;
+    letter-spacing: 0.006rem;
+    max-width: 100%;
+    padding-top: 40px;
+}
+
+.eName{
+    flex: 0 0 auto;
+    box-sizing: border-box;
+    font: 500 1rem/1.5rem 'Google Sans','GoogleSans-Local','Roboto',sans-serif;
+    letter-spacing: 0.006875rem;
+    margin-top: 0.25rem;
+    line-height: 1.5rem;
+    position: relative;
+    color: #5f6368;
+    overflow: hidden;
+    max-height: 3rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    white-space: normal;
+}
